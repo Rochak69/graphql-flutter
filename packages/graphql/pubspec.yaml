@@ -17,7 +17,7 @@ dependencies:
   gql_dedupe_link: ^2.0.3
   hive: ^2.1.0
   normalize: ^0.8.2
-  http: ^1.0.0
+  http: ^0.13.5
   collection: ^1.15.0
   web_socket_channel: ^2.3.0
   stream_channel: ^2.1.0
