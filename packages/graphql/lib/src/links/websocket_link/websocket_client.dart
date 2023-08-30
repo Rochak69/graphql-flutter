@@ -453,6 +453,7 @@ class SocketClient {
             toEncodable: (dynamic m) => m.toJson(),
           ),
         );
+        print('Ping sent' + message.toString());
         break;
       default:
         break;
