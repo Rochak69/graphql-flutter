@@ -5,7 +5,7 @@ repository: https://github.com/zino-app/graphql-flutter/tree/main/packages/graph
 issue_tracker: https://github.com/zino-hofmann/graphql-flutter/issues
 
 # just for dev work
-# publish_to: 'none'
+publish_to: 'none'
 
 dependencies:
   graphql: 
